@@ -1,11 +1,11 @@
-#List of states in Europe
+# List of states in Europe
 
 ### 1. **United Kingdom**
-   - **Political Structure:** Monarchy, Parliament, and Prime Minister.
-   - **Economy:** Brexit impact, Financial services, and Trade.
-   - **Social Issues:** Healthcare (NHS), Education, and Immigration.
-   - **History:** Colonialism, Industrial Revolution, and World Wars.
-   - **Cultural Aspects:** Literature, Music, and Traditions.
+   - [**Political Structure:** Monarchy, Parliament, and Prime Minister.](#)
+   - [**Economy:** Brexit impact, Financial services, and Trade.](#)
+   - [**Social Issues:** Healthcare (NHS), Education, and Immigration.](#)
+   - [**History:** Colonialism, Industrial Revolution, and World Wars.](#)
+   - [**Cultural Aspects:** Literature, Music, and Traditions.](#)
 
 ### 2. **Germany**
    - **Political Structure:** Federal Republic, Chancellor, and Bundestag.
