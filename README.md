@@ -71,158 +71,158 @@
    - [**Cultural Aspects:** Art (Van Gogh, Rembrandt), Architecture, and Cycling Culture.](#)
 
 ### 11. **Greece**
-   - **Political Structure:** Republic, Parliament, and Prime Minister.
-   - **Economy:** Tourism, Shipping, and Agriculture.
-   - **Social Issues:** Economic Crisis, Migration, and Youth Unemployment.
-   - **History:** Ancient Greece, Byzantine Empire, and Modern Greece.
-   - **Cultural Aspects:** Philosophy, Theater, and Orthodox Christianity.
+   - [**Political Structure:** Republic, Parliament, and Prime Minister.](#)
+   - [**Economy:** Tourism, Shipping, and Agriculture.](#)
+   - [**Social Issues:** Economic Crisis, Migration, and Youth Unemployment.](#)
+   - [**History:** Ancient Greece, Byzantine Empire, and Modern Greece.](#)
+   - [**Cultural Aspects:** Philosophy, Theater, and Orthodox Christianity.](#)
 
 ### 12. **Switzerland**
-   - **Political Structure:** Federal Republic, Direct Democracy, and Cantons.
-   - **Economy:** Banking, Pharmaceuticals, and Tourism.
-   - **Social Issues:** Neutrality, Immigration, and Multilingualism.
-   - **History:** Swiss Confederation, Neutrality in Wars, and Banking Secrecy.
-   - **Cultural Aspects:** Watches, Chocolate, and Festivals.
+   - [**Political Structure:** Federal Republic, Direct Democracy, and Cantons.](#)
+   - [**Economy:** Banking, Pharmaceuticals, and Tourism.](#)
+   - [**Social Issues:** Neutrality, Immigration, and Multilingualism.](#)
+   - [**History:** Swiss Confederation, Neutrality in Wars, and Banking Secrecy.](#)
+   - [**Cultural Aspects:** Watches, Chocolate, and Festivals.](#)
 
 ### 13. **Austria**
-   - **Political Structure:** Federal Republic, Parliament, and Chancellor.
-   - **Economy:** Tourism, Manufacturing, and Services.
-   - **Social Issues:** Immigration, Education, and Healthcare.
-   - **History:** Habsburg Empire, Austro-Hungarian Empire, and WWII.
-   - **Cultural Aspects:** Classical Music, Architecture, and Cuisine.
+   - [**Political Structure:** Federal Republic, Parliament, and Chancellor.](#)
+   - [**Economy:** Tourism, Manufacturing, and Services.](#)
+   - [**Social Issues:** Immigration, Education, and Healthcare.](#)
+   - [**History:** Habsburg Empire, Austro-Hungarian Empire, and WWII.](#)
+   - [**Cultural Aspects:** Classical Music, Architecture, and Cuisine.](#)
 
 ### 14. **Portugal**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Tourism, Agriculture, and Exports.
-   - **Social Issues:** Austerity Measures, Aging Population, and Migration.
-   - **History:** Age of Discoveries, Colonial Empire, and Carnation Revolution.
-   - **Cultural Aspects:** Fado Music, Cuisine, and Festivals.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Tourism, Agriculture, and Exports.](#)
+   - [**Social Issues:** Austerity Measures, Aging Population, and Migration.](#)
+   - [**History:** Age of Discoveries, Colonial Empire, and Carnation Revolution.](#)
+   - [**Cultural Aspects:** Fado Music, Cuisine, and Festivals.](#)
 
 ### 15. **Ireland**
-   - **Political Structure:** Republic, Parliament, and Taoiseach (Prime Minister).
-   - **Economy:** Technology, Agriculture, and Finance.
-   - **Social Issues:** Brexit Impact, Healthcare, and Housing Crisis.
-   - **History:** Gaelic Culture, British Rule, and Independence.
-   - **Cultural Aspects:** Literature, Music, and St. Patrick’s Day.
+   - [**Political Structure:** Republic, Parliament, and Taoiseach (Prime Minister).](#)
+   - [**Economy:** Technology, Agriculture, and Finance.](#)
+   - [**Social Issues:** Brexit Impact, Healthcare, and Housing Crisis.](#)
+   - [**History:** Gaelic Culture, British Rule, and Independence.](#)
+   - [**Cultural Aspects:** Literature, Music, and St. Patrick’s Day.](#)
 
 ### 16. **Belgium**
-   - **Political Structure:** Federal Monarchy, Parliament, and Prime Minister.
-   - **Economy:** Trade, Services, and Manufacturing.
-   - **Social Issues:** Language Divide (Flemish and Walloon), Immigration, and EU Role.
-   - **History:** Belgian Revolution, World Wars, and EU Integration.
-   - **Cultural Aspects:** Comics, Chocolate, and Festivals.
+   - [**Political Structure:** Federal Monarchy, Parliament, and Prime Minister.](#)
+   - [**Economy:** Trade, Services, and Manufacturing.](#)
+   - [**Social Issues:** Language Divide (Flemish and Walloon), Immigration, and EU Role.](#)
+   - [**History:** Belgian Revolution, World Wars, and EU Integration.](#)
+   - [**Cultural Aspects:** Comics, Chocolate, and Festivals.](#)
 
 ### 17. **Czech Republic**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Industry, Tourism, and Technology.
-   - **Social Issues:** Corruption, Education, and Healthcare.
-   - **History:** Bohemia, Austro-Hungarian Empire, and Velvet Revolution.
-   - **Cultural Aspects:** Beer, Literature, and Music.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Industry, Tourism, and Technology.](#)
+   - [**Social Issues:** Corruption, Education, and Healthcare.](#)
+   - [**History:** Bohemia, Austro-Hungarian Empire, and Velvet Revolution.](#)
+   - [**Cultural Aspects:** Beer, Literature, and Music.](#)
 
 ### 18. **Hungary**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Services.
-   - **Social Issues:** Media Freedom, Migration, and Education.
-   - **History:** Ottoman Rule, Austro-Hungarian Empire, and 1956 Revolution.
-   - **Cultural Aspects:** Folk Music, Cuisine, and Thermal Baths.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Services.](#)
+   - [**Social Issues:** Media Freedom, Migration, and Education.](#)
+   - [**History:** Ottoman Rule, Austro-Hungarian Empire, and 1956 Revolution.](#)
+   - [**Cultural Aspects:** Folk Music, Cuisine, and Thermal Baths.](#)
 
 ### 19. **Denmark**
-   - **Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.
-   - **Economy:** Shipping, Agriculture, and Pharmaceuticals.
-   - **Social Issues:** Welfare State, Immigration, and Environment.
-   - **History:** Viking Age, Union with Norway, and Modernization.
-   - **Cultural Aspects:** Design, Cuisine, and Literature.
+   - [**Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.](#)
+   - [**Economy:** Shipping, Agriculture, and Pharmaceuticals.](#)
+   - [**Social Issues:** Welfare State, Immigration, and Environment.](#)
+   - [**History:** Viking Age, Union with Norway, and Modernization.](#)
+   - [**Cultural Aspects:** Design, Cuisine, and Literature.](#)
 
 ### 20. **Finland**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Technology, Forestry, and Education.
-   - **Social Issues:** Education, Healthcare, and Aging Population.
-   - **History:** Swedish Rule, Russian Rule, and Independence.
-   - **Cultural Aspects:** Sauna, Literature, and Music.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Technology, Forestry, and Education.](#)
+   - [**Social Issues:** Education, Healthcare, and Aging Population.](#)
+   - [**History:** Swedish Rule, Russian Rule, and Independence.](#)
+   - [**Cultural Aspects:** Sauna, Literature, and Music.](#)
 
 ### 21. **Iceland**
-   - **Political Structure:** Parliamentary Republic, President, and Althingi (Parliament).
-   - **Economy:** Fishing, Tourism, and Renewable Energy.
-   - **Social Issues:** Small Population, Healthcare, and Education.
-   - **History:** Settlement Age, Independence from Denmark, and Financial Crisis of 2008.
-   - **Cultural Aspects:** Sagas, Music, and Norse Mythology.
+   - [**Political Structure:** Parliamentary Republic, President, and Althingi (Parliament).](#)
+   - [**Economy:** Fishing, Tourism, and Renewable Energy.](#)
+   - [**Social Issues:** Small Population, Healthcare, and Education.](#)
+   - [**History:** Settlement Age, Independence from Denmark, and Financial Crisis of 2008.](#)
+   - [**Cultural Aspects:** Sagas, Music, and Norse Mythology.](#)
 
 ### 22. **Luxembourg**
-   - **Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.
-   - **Economy:** Banking, Steel, and Technology.
-   - **Social Issues:** Multilingualism, Immigration, and Housing.
-   - **History:** Fortress City, World Wars, and EU Founding Member.
-   - **Cultural Aspects:** Cuisine, Multicultural Festivals, and Architecture.
+   - [**Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.](#)
+   - [**Economy:** Banking, Steel, and Technology.](#)
+   - [**Social Issues:** Multilingualism, Immigration, and Housing.](#)
+   - [**History:** Fortress City, World Wars, and EU Founding Member.](#)
+   - [**Cultural Aspects:** Cuisine, Multicultural Festivals, and Architecture.](#)
 
 ### 23. **Liechtenstein**
-   - **Political Structure:** Constitutional Monarchy, Prince, and Landtag (Parliament).
-   - **Economy:** Finance, Manufacturing, and Agriculture.
-   - **Social Issues:** Small Population, Immigration, and Education.
-   - **History:** Holy Roman Empire, Napoleonic Wars, and Neutrality.
-   - **Cultural Aspects:** Music, Art, and Traditions.
+   - [**Political Structure:** Constitutional Monarchy, Prince, and Landtag (Parliament).](#)
+   - [**Economy:** Finance, Manufacturing, and Agriculture.](#)
+   - [**Social Issues:** Small Population, Immigration, and Education.](#)
+   - [**History:** Holy Roman Empire, Napoleonic Wars, and Neutrality.](#)
+   - [**Cultural Aspects:** Music, Art, and Traditions.](#)
 
 ### 24. **Monaco**
-   - **Political Structure:** Constitutional Monarchy, Prince, and National Council.
-   - **Economy:** Tourism, Banking, and Real Estate.
-   - **Social Issues:** Wealth Disparity, Housing, and Environment.
-   - **History:** Grimaldi Family, French Protectorate, and Modern Monaco.
-   - **Cultural Aspects:** Casino Culture, Formula 1, and Opera.
+   - [**Political Structure:** Constitutional Monarchy, Prince, and National Council.](#)
+   - [**Economy:** Tourism, Banking, and Real Estate.](#)
+   - [**Social Issues:** Wealth Disparity, Housing, and Environment.](#)
+   - [**History:** Grimaldi Family, French Protectorate, and Modern Monaco.](#)
+   - [**Cultural Aspects:** Casino Culture, Formula 1, and Opera.](#)
 
 ### 25. **Malta**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Tourism, Shipping, and Finance.
-   - **Social Issues:** Migration, Education, and Healthcare.
-   - **History:** Knights of St. John, British Rule, and Independence.
-   - **Cultural Aspects:** Festivals, Language, and Architecture.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Tourism, Shipping, and Finance.](#)
+   - [**Social Issues:** Migration, Education, and Healthcare.](#)
+   - [**History:** Knights of St. John, British Rule, and Independence.](#)
+   - [**Cultural Aspects:** Festivals, Language, and Architecture.](#)
 
 ### 26. **Portugal**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Tourism, Agriculture, and Exports.
-   - **Social Issues:** Austerity Measures, Aging Population, and Migration.
-   - **History:** Age of Discoveries, Colonial Empire, and Carnation Revolution.
-   - **Cultural Aspects:** Fado Music, Cuisine, and Festivals.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Tourism, Agriculture, and Exports.](#)
+   - [**Social Issues:** Austerity Measures, Aging Population, and Migration.](#)
+   - [**History:** Age of Discoveries, Colonial Empire, and Carnation Revolution.](#)
+   - [**Cultural Aspects:** Fado Music, Cuisine, and Festivals.](#)
 
 ### 27. **Slovenia**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Manufacturing, Tourism, and Services.
-   - **Social Issues:** Education, Healthcare, and EU Integration.
-   - **History:** Austro-Hungarian Empire, Yugoslav Era, and Independence.
-   - **Cultural Aspects:** Literature, Music, and Folk Traditions.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Manufacturing, Tourism, and Services.](#)
+   - [**Social Issues:** Education, Healthcare, and EU Integration.](#)
+   - [**History:** Austro-Hungarian Empire, Yugoslav Era, and Independence.](#)
+   - [**Cultural Aspects:** Literature, Music, and Folk Traditions.](#)
 
 ### 28. **Slovakia**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Manufacturing, Agriculture, and Services.
-   - **Social Issues:** Corruption, Education, and Healthcare.
-   - **History:** Austro-Hungarian Empire, Czechoslovakia, and Independence.
-   - **Cultural Aspects:** Folk Music, Cuisine, and Festivals.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Manufacturing, Agriculture, and Services.](#)
+   - [**Social Issues:** Corruption, Education, and Healthcare.](#)
+   - [**History:** Austro-Hungarian Empire, Czechoslovakia, and Independence.](#)
+   - [**Cultural Aspects:** Folk Music, Cuisine, and Festivals.](#)
 
 ### 29. **Croatia**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Tourism, Agriculture, and Manufacturing.
-   - **Social Issues:** War Legacy, EU Integration, and Education.
-   - **History:** Austro-Hungarian Empire, Yugoslavia, and Independence.
-   - **Cultural Aspects:** Folk Traditions, Music, and Cuisine.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Tourism, Agriculture, and Manufacturing.](#)
+   - [**Social Issues:** War Legacy, EU Integration, and Education.](#)
+   - [**History:** Austro-Hungarian Empire, Yugoslavia, and Independence.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Cuisine.](#)
 
 ### 30. **Bosnia and Herzegovina**
-   - **Political Structure:** Federal Republic, Presidency, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Services.
-   - **Social Issues:** Ethnic Tensions, Education, and Healthcare.
-   - **History:** Ottoman Empire, Austro-Hungarian Rule, and Bosnian War.
-   - **Cultural Aspects:** Music, Folk Traditions, and Religious Diversity.
+   - [**Political Structure:** Federal Republic, Presidency, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Services.](#)
+   - [**Social Issues:** Ethnic Tensions, Education, and Healthcare.](#)
+   - [**History:** Ottoman Empire, Austro-Hungarian Rule, and Bosnian War.](#)
+   - [**Cultural Aspects:** Music, Folk Traditions, and Religious Diversity.](#)
 
 ### 31. **Serbia**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Energy.
-   - **Social Issues:** EU Integration, Kosovo Conflict, and Corruption.
-   - **History:** Ottoman Rule, Yugoslavia, and NATO Bombing.
-   - **Cultural Aspects:** Music, Literature, and Orthodox Christianity.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Energy.](#)
+   - [**Social Issues:** EU Integration, Kosovo Conflict, and Corruption.](#)
+   - [**History:** Ottoman Rule, Yugoslavia, and NATO Bombing.](#)
+   - [**Cultural Aspects:** Music, Literature, and Orthodox Christianity.](#)
 
 ### 32. **Montenegro**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Tourism, Agriculture, and Energy.
-   - **Social Issues:** EU Integration, Environment, and Education.
-   - **History:** Ottoman Rule, Yugoslavia, and Independence.
-   - **Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Tourism, Agriculture, and Energy.](#)
+   - [**Social Issues:** EU Integration, Environment, and Education.](#)
+   - [**History:** Ottoman Rule, Yugoslavia, and Independence.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.](#)
 
 ### 33. **North Macedonia**
    - **Political Structure:** Republic, President, and Parliament.
