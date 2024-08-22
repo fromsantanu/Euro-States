@@ -8,67 +8,67 @@
    - [**Cultural Aspects:** Literature, Music, and Traditions.](#)
 
 ### 2. **Germany**
-   - **Political Structure:** Federal Republic, Chancellor, and Bundestag.
-   - **Economy:** Manufacturing, Auto Industry, and Exports.
-   - **Social Issues:** Reunification, Refugee Crisis, and Education.
-   - **History:** World Wars, Nazi Era, and Berlin Wall.
-   - **Cultural Aspects:** Oktoberfest, Philosophy, and Arts.
+   - [**Political Structure:** Federal Republic, Chancellor, and Bundestag.](#)
+   - [**Economy:** Manufacturing, Auto Industry, and Exports.](#)
+   - [**Social Issues:** Reunification, Refugee Crisis, and Education.](#)
+   - [**History:** World Wars, Nazi Era, and Berlin Wall.](#)
+   - [**Cultural Aspects:** Oktoberfest, Philosophy, and Arts.](#)
 
 ### 3. **France**
-   - **Political Structure:** Republic, President, and National Assembly.
-   - **Economy:** Agriculture, Luxury Goods, and Tourism.
-   - **Social Issues:** Secularism, Immigration, and Labor Strikes.
-   - **History:** French Revolution, Napoleonic Wars, and Colonialism.
-   - **Cultural Aspects:** Cuisine, Fashion, and Art Movements.
+   - [**Political Structure:** Republic, President, and National Assembly.](#)
+   - [**Economy:** Agriculture, Luxury Goods, and Tourism.](#)
+   - [**Social Issues:** Secularism, Immigration, and Labor Strikes.](#)
+   - [**History:** French Revolution, Napoleonic Wars, and Colonialism.](#)
+   - [**Cultural Aspects:** Cuisine, Fashion, and Art Movements.](#)
 
 ### 4. **Italy**
-   - **Political Structure:** Republic, Parliament, and Prime Minister.
-   - **Economy:** Tourism, Fashion, and Agriculture.
-   - **Social Issues:** Organized Crime, Migration, and Unemployment.
-   - **History:** Roman Empire, Renaissance, and World Wars.
-   - **Cultural Aspects:** Art, Architecture, and Cuisine.
+   - [**Political Structure:** Republic, Parliament, and Prime Minister.](#)
+   - [**Economy:** Tourism, Fashion, and Agriculture.](#)
+   - [**Social Issues:** Organized Crime, Migration, and Unemployment.](#)
+   - [**History:** Roman Empire, Renaissance, and World Wars.](#)
+   - [**Cultural Aspects:** Art, Architecture, and Cuisine.](#)
 
 ### 5. **Spain**
-   - **Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.
-   - **Economy:** Agriculture, Tourism, and Energy.
-   - **Social Issues:** Regional Independence (Catalonia), Unemployment, and Immigration.
-   - **History:** Reconquista, Spanish Empire, and Civil War.
-   - **Cultural Aspects:** Flamenco, Festivals, and Cuisine.
+   - [**Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.](#)
+   - [**Economy:** Agriculture, Tourism, and Energy.](#)
+   - [**Social Issues:** Regional Independence (Catalonia), Unemployment, and Immigration.](#)
+   - [**History:** Reconquista, Spanish Empire, and Civil War.](#)
+   - [**Cultural Aspects:** Flamenco, Festivals, and Cuisine.](#)
 
-### 6. **Russia**
-   - **Political Structure:** Federal Semi-Presidential Republic, President, and Duma.
-   - **Economy:** Energy (Oil and Gas), Military, and Agriculture.
-   - **Social Issues:** Human Rights, Corruption, and Demographics.
-   - **History:** Tsarist Russia, Soviet Union, and Cold War.
-   - **Cultural Aspects:** Literature, Ballet, and Orthodox Christianity.
+### 6. **Russia**(European Part)
+   - [**Political Structure:** Federal Semi-Presidential Republic, President, and Duma.](#)
+   - [**Economy:** Energy (Oil and Gas), Military, and Agriculture.](#)
+   - [**Social Issues:** Human Rights, Corruption, and Demographics.](#)
+   - [**History:** Tsarist Russia, Soviet Union, and Cold War.](#)
+   - [**Cultural Aspects:** Literature, Ballet, and Orthodox Christianity.](#)
 
 ### 7. **Sweden**
-   - **Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.
-   - **Economy:** Welfare State, Exports, and Innovation.
-   - **Social Issues:** Gender Equality, Immigration, and Environment.
-   - **History:** Viking Age, Neutrality in Wars, and Welfare Reforms.
-   - **Cultural Aspects:** Music, Design, and Traditions.
+   - [**Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.](#)
+   - [**Economy:** Welfare State, Exports, and Innovation.](#)
+   - [**Social Issues:** Gender Equality, Immigration, and Environment.](#)
+   - [**History:** Viking Age, Neutrality in Wars, and Welfare Reforms.](#)
+   - [**Cultural Aspects:** Music, Design, and Traditions.](#)
 
 ### 8. **Norway**
-   - **Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.
-   - **Economy:** Oil and Gas, Fishing, and Sovereign Wealth Fund.
-   - **Social Issues:** Healthcare, Immigration, and Education.
-   - **History:** Viking Age, Union with Sweden, and Modernization.
-   - **Cultural Aspects:** Sami Culture, Music, and Festivals.
+   - [**Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.](#)
+   - [**Economy:** Oil and Gas, Fishing, and Sovereign Wealth Fund.](#)
+   - [**Social Issues:** Healthcare, Immigration, and Education.](#)
+   - [**History:** Viking Age, Union with Sweden, and Modernization.](#)
+   - [**Cultural Aspects:** Sami Culture, Music, and Festivals.](#)
 
 ### 9. **Poland**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and EU Integration.
-   - **Social Issues:** Judiciary Independence, Migration, and Religion.
-   - **History:** Partitions, World War II, and Solidarity Movement.
-   - **Cultural Aspects:** Literature, Music, and Folk Traditions.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and EU Integration.](#)
+   - [**Social Issues:** Judiciary Independence, Migration, and Religion.](#)
+   - [**History:** Partitions, World War II, and Solidarity Movement.](#)
+   - [**Cultural Aspects:** Literature, Music, and Folk Traditions.](#)
 
 ### 10. **Netherlands**
-   - **Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.
-   - **Economy:** Trade, Agriculture, and Technology.
-   - **Social Issues:** Drug Policy, Euthanasia, and Immigration.
-   - **History:** Dutch Golden Age, Colonization, and WWII Resistance.
-   - **Cultural Aspects:** Art (Van Gogh, Rembrandt), Architecture, and Cycling Culture.
+   - [**Political Structure:** Constitutional Monarchy, Parliament, and Prime Minister.](#)
+   - [**Economy:** Trade, Agriculture, and Technology.](#)
+   - [**Social Issues:** Drug Policy, Euthanasia, and Immigration.](#)
+   - [**History:** Dutch Golden Age, Colonization, and WWII Resistance.](#)
+   - [**Cultural Aspects:** Art (Van Gogh, Rembrandt), Architecture, and Cycling Culture.](#)
 
 ### 11. **Greece**
    - **Political Structure:** Republic, Parliament, and Prime Minister.
