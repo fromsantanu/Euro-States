@@ -1,4 +1,4 @@
-# List of states in Europe
+# List of states in Europe ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ### 1. **United Kingdom**
    - [**Political Structure:** Monarchy, Parliament, and Prime Minister.](#)
