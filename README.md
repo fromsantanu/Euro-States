@@ -225,102 +225,100 @@
    - [**Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.](#)
 
 ### 33. **North Macedonia**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Services.
-   - **Social Issues:** Ethnic Tensions, EU and NATO Integration, and Education.
-   - **History:** Ottoman Empire, Yugoslavia, and Independence.
-   - **Cultural Aspects:** Music, Folk Traditions, and Cuisine.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Services.](#)
+   - [**Social Issues:** Ethnic Tensions, EU and NATO Integration, and Education.](#)
+   - [**History:** Ottoman Empire, Yugoslavia, and Independence.](#)
+   - [**Cultural Aspects:** Music, Folk Traditions, and Cuisine.](#)
 
 ### 34. **Albania**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Tourism, and Energy.
-   - **Social Issues:** Corruption, Education, and Migration.
-   - **History:** Ottoman Rule, Communist Era, and Transition to Democracy.
-   - **Cultural Aspects:** Folk Music, Traditions, and Religious Tolerance.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Tourism, and Energy.](#)
+   - [**Social Issues:** Corruption, Education, and Migration.](#)
+   - [**History:** Ottoman Rule, Communist Era, and Transition to Democracy.](#)
+   - [**Cultural Aspects:** Folk Music, Traditions, and Religious Tolerance.](#)
 
 ### 35. **Bulgaria**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Services.
-   - **Social Issues:** Corruption, Migration, and Education.
-   - **History:** Ottoman Rule, Communist Era, and EU Integration.
-   - **Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Services.](#)
+   - [**Social Issues:** Corruption, Migration, and Education.](#)
+   - [**History:** Ottoman Rule, Communist Era, and EU Integration.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.](#)
 
 ### 36. **Romania**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Services.
-   - **Social Issues:** Corruption, Migration, and Education.
-   - **History:** Ottoman Rule, Communist Era, and EU Integration.
-   - **Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Services.](#)
+   - [**Social Issues:** Corruption, Migration, and Education.](#)
+   - [**History:** Ottoman Rule, Communist Era, and EU Integration.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.](#)
 
 ### 37. **Ukraine**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Energy.
-   - **Social Issues:** Conflict with Russia, Corruption, and EU Integration.
-   - **History:** Kievan Rus, Soviet Era, and Independence.
-   - **Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Energy.](#)
+   - [**Social Issues:** Conflict with Russia, Corruption, and EU Integration.](#)
+   - [**History:** Kievan Rus, Soviet Era, and Independence.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.](#)
 
 ### 38. **Belarus**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Energy.
-   - **Social Issues:** Human Rights, Corruption, and Relations with Russia.
-   - **History:** Soviet Era, Independence, and Political Repression.
-   - **Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Energy.](#)
+   - [**Social Issues:** Human Rights, Corruption, and Relations with Russia.](#)
+   - [**History:** Soviet Era, Independence, and Political Repression.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.](#)
 
 ### 39. **Moldova**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Services.
-   - **Social Issues:** Corruption, Migration, and EU Integration.
-   - **History:** Ottoman Rule, Soviet Era, and Independence.
-   - **Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Services.](#)
+   - [**Social Issues:** Corruption, Migration, and EU Integration.](#)
+   - [**History:** Ottoman Rule, Soviet Era, and Independence.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Orthodox Christianity.](#)
 
 ### 40. **Lithuania**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Technology.
-   - **Social Issues:** EU Integration, Migration, and Education.
-   - **History:** Polish-Lithuanian Commonwealth, Soviet Era, and Independence.
-   - **Cultural Aspects:** Folk Traditions, Music, and Catholicism.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Technology.](#)
+   - [**Social Issues:** EU Integration, Migration, and Education.](#)
+   - [**History:** Polish-Lithuanian Commonwealth, Soviet Era, and Independence.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Catholicism.](#)
 
 ### 41. **Latvia**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Manufacturing, and Services.
-   - **Social Issues:** EU Integration, Migration, and Education.
-   - **History:** Polish-Lithuanian Commonwealth, Soviet Era, and Independence.
-   - **Cultural Aspects:** Folk Traditions, Music, and Catholicism.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Manufacturing, and Services.](#)
+   - [**Social Issues:** EU Integration, Migration, and Education.](#)
+   - [**History:** Polish-Lithuanian Commonwealth, Soviet Era, and Independence.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Catholicism.](#)
 
 ### 42. **Estonia**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Technology, Manufacturing, and Services.
-   - **Social Issues:** EU Integration, Digital Transformation, and Education.
-   - **History:** Danish and Swedish Rule, Soviet Era, and Independence.
-   - **Cultural Aspects:** Music, Folk Traditions, and Digital Society.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Technology, Manufacturing, and Services.](#)
+   - [**Social Issues:** EU Integration, Digital Transformation, and Education.](#)
+   - [**History:** Danish and Swedish Rule, Soviet Era, and Independence.](#)
+   - [**Cultural Aspects:** Music, Folk Traditions, and Digital Society.](#)
 
 ### 43. **Kosovo**
-   - **Political Structure:** Republic, President, and Parliament.
-   - **Economy:** Agriculture, Services, and Remittances.
-   - **Social Issues:** International Recognition, Corruption, and Education.
-   - **History:** Ottoman Rule, Yugoslav Era, and Independence.
-   - **Cultural Aspects:** Folk Traditions, Music, and Religious Diversity.
+   - [**Political Structure:** Republic, President, and Parliament.](#)
+   - [**Economy:** Agriculture, Services, and Remittances.](#)
+   - [**Social Issues:** International Recognition, Corruption, and Education.](#)
+   - [**History:** Ottoman Rule, Yugoslav Era, and Independence.](#)
+   - [**Cultural Aspects:** Folk Traditions, Music, and Religious Diversity.](#)
 
 ### 44. **Andorra**
-   - **Political Structure:** Parliamentary Co-Principality, General Council.
-   - **Economy:** Tourism, Banking, and Retail.
-   - **Social Issues:** Small Population, Immigration, and Education.
-   - **History:** Medieval Foundations, Neutrality, and Modernization.
-   - **Cultural Aspects:** Festivals, Language, and
-
- Architecture.
+   - [**Political Structure:** Parliamentary Co-Principality, General Council.](#)
+   - [**Economy:** Tourism, Banking, and Retail.](#)
+   - [**Social Issues:** Small Population, Immigration, and Education.](#)
+   - [**History:** Medieval Foundations, Neutrality, and Modernization.](#)
+   - [**Cultural Aspects:** Festivals, Language, and Architecture.](#)
 
 ### 45. **San Marino**
-   - **Political Structure:** Republic, Captains Regent, and Grand and General Council.
-   - **Economy:** Tourism, Banking, and Manufacturing.
-   - **Social Issues:** Small Population, Education, and Healthcare.
-   - **History:** Oldest Republic, Neutrality in Wars, and Modernization.
-   - **Cultural Aspects:** Architecture, Festivals, and Cuisine.
+   - [**Political Structure:** Republic, Captains Regent, and Grand and General Council.](#)
+   - [**Economy:** Tourism, Banking, and Manufacturing.](#)
+   - [**Social Issues:** Small Population, Education, and Healthcare.](#)
+   - [**History:** Oldest Republic, Neutrality in Wars, and Modernization.](#)
+   - [**Cultural Aspects:** Architecture, Festivals, and Cuisine.](#)
 
 ### 46. **Vatican City**
-   - **Political Structure:** Absolute Elective Monarchy, Pope.
-   - **Economy:** Donations, Tourism, and Philately.
-   - **Social Issues:** Religious Influence, Diplomacy, and Preservation.
-   - **History:** Papal States, Lateran Treaty, and Modern Vatican.
-   - **Cultural Aspects:** Art (Michelangelo, Raphael), Religion, and Architecture.
+   - [**Political Structure:** Absolute Elective Monarchy, Pope.](#)
+   - [**Economy:** Donations, Tourism, and Philately.](#)
+   - [**Social Issues:** Religious Influence, Diplomacy, and Preservation.](#)
+   - [**History:** Papal States, Lateran Treaty, and Modern Vatican.](#)
+   - [**Cultural Aspects:** Art (Michelangelo, Raphael), Religion, and Architecture.](#)
 
