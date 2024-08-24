@@ -1,11 +1,11 @@
 # List of states in Europe ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ### 1. **United Kingdom**
-   - [**Political Structure:** Monarchy, Parliament, and Prime Minister.](#)
-   - [**Economy:** Brexit impact, Financial services, and Trade.](#)
-   - [**Social Issues:** Healthcare (NHS), Education, and Immigration.](#)
-   - [**History:** Colonialism, Industrial Revolution, and World Wars.](#)
-   - [**Cultural Aspects:** Literature, Music, and Traditions.](#)
+   - [**Political Structure:** Monarchy, Parliament, and Prime Minister.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter01-01.md)
+   - [**Economy:** Brexit impact, Financial services, and Trade.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter01-02.md)
+   - [**Social Issues:** Healthcare (NHS), Education, and Immigration.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter01-03.md)
+   - [**History:** Colonialism, Industrial Revolution, and World Wars.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter01-04.md)
+   - [**Cultural Aspects:** Literature, Music, and Traditions.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter01-05.md)
 
 ### 2. **Germany**
    - [**Political Structure:** Federal Republic, Chancellor, and Bundestag.](#)
