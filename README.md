@@ -7,12 +7,12 @@
    - [**History:** Colonialism, Industrial Revolution, and World Wars.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter01-04.md)
    - [**Cultural Aspects:** Literature, Music, and Traditions.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter01-05.md)
 
-### 2. **Germany**
-   - [**Political Structure:** Federal Republic, Chancellor, and Bundestag.](#)
-   - [**Economy:** Manufacturing, Auto Industry, and Exports.](#)
-   - [**Social Issues:** Reunification, Refugee Crisis, and Education.](#)
-   - [**History:** World Wars, Nazi Era, and Berlin Wall.](#)
-   - [**Cultural Aspects:** Oktoberfest, Philosophy, and Arts.](#)
+### 2. [**Germany**](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter02.md)
+   - [**Political Structure:** Federal Republic, Chancellor, and Bundestag.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter02-01.md)
+   - [**Economy:** Manufacturing, Auto Industry, and Exports.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter02-02.md)
+   - [**Social Issues:** Reunification, Refugee Crisis, and Education.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter02-03.md)
+   - [**History:** World Wars, Nazi Era, and Berlin Wall.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter02-04.md)
+   - [**Cultural Aspects:** Oktoberfest, Philosophy, and Arts.](https://github.com/fromsantanu/Euro-States/blob/main/Pages/Chapter02-05.md)
 
 ### 3. **France**
    - [**Political Structure:** Republic, President, and National Assembly.](#)
